@@ -9,7 +9,6 @@ st.title("Pure Fluid Property Calculator")
 # Header and fluid info link
 st.markdown("""
 <div style="text-align: center;">
-    <br>
     List of all available fluids is available 
     <a href="http://www.coolprop.org/fluid_properties/PurePseudoPure.html" target="_blank">here</a>.
 </div>
